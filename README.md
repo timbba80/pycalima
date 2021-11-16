@@ -31,13 +31,17 @@ $apt install python3 python3-pip libglib2.0-dev
 ```
 
 
-2. Then install BluePy
+2. Install BluePy
 
 ```
 $sudo pip3 install bluepy
 ```
 
+3. Clone this repo
 
+```
+git clone https://github.com/timutta/pycalima.git
+```
 
 ## Demo usage
 
